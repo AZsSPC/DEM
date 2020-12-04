@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9A3258</color>
+    <color name="colorPrimaryDark">#7E2344</color>
+    <color name="colorAccent">#B35678</color>
+    <color name="nav_bar_back">#A6496B</color>
+    <color name="nav_bar_butt">#B35678</color>
+    <color name="nav_bar_tint">#FFF</color>
+    <color name="pr_link">#1E88E5</color>
+</resources>

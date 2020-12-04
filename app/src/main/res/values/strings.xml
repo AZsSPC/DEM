@@ -1,0 +1,271 @@
+<resources>
+    <string name="facebook_app_id">699362504303928</string>
+    <string name="facebook_login_protocol_scheme">fb699362504303928</string>
+    <string name="app_name">Delightful Emerald Michele</string>
+
+    <string name="txt_credits">I have read and accept Privacy Policy</string>
+    <string name="main_welcome">My name is [g_names]!\nWelcome to my kingdom!</string>
+    <string name="main_question">Can I ask you a couple of simple questions to get to know you better?</string>
+    <string name="main_wyn">What\'s your name?</string>
+    <string name="next">NEXT</string>
+    <string name="main_enter_name">Enter name here</string>
+    <string name="u_must_cpp">You must accept Privacy Policy to continue.</string>
+    <string name="res_pw">Please wait!\nAnalysis is in progress!</string>
+
+    <string name="q_title">Question (q_num) of (q_max)</string>
+
+    <string name="final_show">
+        Your [gf] [love] you very much, and he does things only for you.
+        He [proved] over and over again his pure love, she also loves ANSWER0.
+        But you [have] to wait until he let you know about his feelings for you.
+        Dear, (name), [gf] is definitely looking at a bright future with you because of the feelings he has in his heart.
+        You have to [evaluate] your feelings.</string>
+    <string-array name="gf">
+        <item>girlfriend</item>
+        <item>woman</item>
+        <item>lady</item>
+    </string-array>
+    <string-array name="love">
+        <item>loves</item>
+        <item>likes</item>
+        <item>is in love</item>
+        <item>really</item>
+    </string-array>
+    <string-array name="proved">
+        <item>proved</item>
+        <item>tried</item>
+    </string-array>
+    <string-array name="have">
+        <item>have</item>
+        <item>need</item>
+        <item>give</item>
+    </string-array>
+    <string-array name="evaluate">
+        <item>evaluate</item>
+        <item>assess</item>
+        <item>estimate</item>
+    </string-array>
+
+    <string-array name="quest">
+        <item>vegetables</item>
+        <item>animals</item>
+        <item>text1</item>
+        <item>text2</item>
+        <item>text3</item>
+    </string-array>
+    <string-array name="analysis">
+        <item>answer processing</item>
+        <item>double check</item>
+        <item>location analysis</item>
+        <item>accounting for error</item>
+        <item>comparison of results</item>
+        <item>personality analysis</item>
+        <item>search for matches</item>
+        <item>profile search</item>
+    </string-array>
+
+    <string-array name="vegetables">
+        <item>#i</item>
+        <item>What\'s your favorite vegetable?\nChoose one</item>
+        <item>o1</item>
+        <item>o2</item>
+        <item>o3</item>
+        <item>o4</item>
+        <item>Tomato</item>
+        <item>Turnip</item>
+        <item>Pumpkin</item>
+        <item>Corn</item>
+    </string-array>
+    <string-array name="animals">
+        <item>#i</item>
+        <item>Choose which animal you like best?</item>
+        <item>b1</item>
+        <item>b2</item>
+        <item>b3</item>
+        <item>b4</item>
+        <item>Fox</item>
+        <item>Hedgehog</item>
+        <item>Penguin</item>
+        <item>Deer</item>
+    </string-array>
+    <string-array name="text1">
+        <item>#t</item>
+        <item>All his major decisions of life are with you or around you, true?</item>
+        <item>Yes, you can say so</item>
+        <item>No actually, you are not sure</item>
+        <item>You think so.. yes you do</item>
+    </string-array>
+    <string-array name="text2">
+        <item>#t</item>
+        <item>You are a part of his family as in he considers you the same?</item>
+        <item>Yes, you are sure</item>
+        <item>You are not sure</item>
+        <item>You don’t know… You relation is new</item>
+    </string-array>
+    <string-array name="text3">
+        <item>#t</item>
+        <item>Does he always talk about future keeping you in mind?</item>
+        <item>Yeah! You are a part</item>
+        <item>Hmm.. at most times</item>
+        <item>You never paid heed</item>
+    </string-array>
+    <string-array name="g_names">
+        <item>Ainara</item>
+        <item>Ainhoa</item>
+        <item>Aitana</item>
+        <item>Alessia</item>
+        <item>Alva</item>
+        <item>Amelie</item>
+        <item>Amerie</item>
+        <item>Amoret</item>
+        <item>Anais</item>
+        <item>Antonina</item>
+        <item>Apolline</item>
+        <item>Araceli</item>
+        <item>Arlet</item>
+        <item>Aurelie</item>
+        <item>Axelle</item>
+        <item>Aya</item>
+        <item>Azzurra</item>
+        <item>Belen</item>
+        <item>Benedetta</item>
+        <item>Benthe</item>
+        <item>Brisa</item>
+        <item>Calixta</item>
+        <item>Candela</item>
+        <item>Caprice</item>
+        <item>Capucine</item>
+        <item>Cato</item>
+        <item>Chiara</item>
+        <item>Clemence</item>
+        <item>Corisande</item>
+        <item>Dasha</item>
+        <item>Demetria</item>
+        <item>Doutzen</item>
+        <item>Elettra</item>
+        <item>Elin</item>
+        <item>Elke</item>
+        <item>Elvira</item>
+        <item>Emiliana</item>
+        <item>Esperanza</item>
+        <item>Estrella</item>
+        <item>Eulalie</item>
+        <item>Evadne</item>
+        <item>Faustine</item>
+        <item>Feline</item>
+        <item>Femke</item>
+        <item>Fenna</item>
+        <item>Fenne</item>
+        <item>Fien</item>
+        <item>Finja</item>
+        <item>Fiorella</item>
+        <item>Flavia</item>
+        <item>Fleur</item>
+        <item>Gaia</item>
+        <item>Gala</item>
+        <item>Giada</item>
+        <item>Ginevra</item>
+        <item>Gioia</item>
+        <item>Giovanna</item>
+        <item>Gisele</item>
+        <item>Giulia</item>
+        <item>Gretel</item>
+        <item>Griselda</item>
+        <item>Hedda</item>
+        <item>Hilma</item>
+        <item>Iben</item>
+        <item>Ilaria</item>
+        <item>Ilsa</item>
+        <item>Ines</item>
+        <item>Iolanthe</item>
+        <item>Iria</item>
+        <item>Irina</item>
+        <item>Isa</item>
+        <item>Jimena</item>
+        <item>Juna</item>
+        <item>Juni</item>
+        <item>Kassiani</item>
+        <item>Laia</item>
+        <item>Leire</item>
+        <item>Leonie</item>
+        <item>Leyre</item>
+        <item>Lieke</item>
+        <item>Liesl</item>
+        <item>Lilou</item>
+        <item>Lise</item>
+        <item>Lisette</item>
+        <item>Lo</item>
+        <item>Lotte</item>
+        <item>Ludovica</item>
+        <item>Luz</item>
+        <item>Madelief</item>
+        <item>Maelie</item>
+        <item>Maelle</item>
+        <item>Maelys</item>
+        <item>Mafalda</item>
+        <item>Majken</item>
+        <item>Manon</item>
+        <item>Manuela</item>
+        <item>Mar</item>
+        <item>Mathilde</item>
+        <item>Mattea</item>
+        <item>Melisandre</item>
+        <item>Merle</item>
+        <item>Mignon</item>
+        <item>Milan</item>
+        <item>Milou</item>
+        <item>Minette</item>
+        <item>Moa</item>
+        <item>Naiara</item>
+        <item>Nele</item>
+        <item>Nerea</item>
+        <item>Noa</item>
+        <item>Nuria</item>
+        <item>Oceane</item>
+        <item>Odile</item>
+        <item>Oline</item>
+        <item>Ona</item>
+        <item>Ottoline</item>
+        <item>Perdita</item>
+        <item>Perla</item>
+        <item>Puck</item>
+        <item>Rafaella</item>
+        <item>Ravenna</item>
+        <item>Rocio</item>
+        <item>Romane</item>
+        <item>Ronja</item>
+        <item>Rosalia</item>
+        <item>Saar</item>
+        <item>Saga</item>
+        <item>Sandrine</item>
+        <item>Sanne</item>
+        <item>Saskia</item>
+        <item>Sidonie</item>
+        <item>Signe</item>
+        <item>Sigrid</item>
+        <item>Siv</item>
+        <item>Solana</item>
+        <item>Soledad</item>
+        <item>Solene</item>
+        <item>Solveig</item>
+        <item>Sophronia</item>
+        <item>Stina</item>
+        <item>Svea</item>
+        <item>Thais</item>
+        <item>Thalassa</item>
+        <item>Thessaly</item>
+        <item>Tiril</item>
+        <item>Triana</item>
+        <item>Tuva</item>
+        <item>Valeria</item>
+        <item>Veerle</item>
+        <item>Vega</item>
+        <item>Vianne</item>
+        <item>Victoire</item>
+        <item>Xanthipe</item>
+        <item>Ximena</item>
+        <item>Xiomara</item>
+        <item>Yara</item>
+        <item>Zosia</item>
+    </string-array>
+</resources>
